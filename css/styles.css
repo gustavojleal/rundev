@@ -106,26 +106,6 @@ header {
 }
 
 
-/* Work Experience
-------------------------------------*/
-.work-experience {
-  background: #A1C6D7;
-}
-
-
-
-/* Education
-------------------------------------*/
-.education {
-  background-image: url(../images/joanna-kosinska-unsplash.jpg);
-  background-size: cover;
-  background-position: top right;
-  padding-bottom: 100px;
-}
-.education p {
-  width: 60%;
-}
-
 
 /* Contact Info
 ------------------------------------*/
