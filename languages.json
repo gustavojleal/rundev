@@ -1,0 +1,23 @@
+{
+    "english": [
+        ["content-wrap-p", "As a developer, I specialize in creating modular and scalable full stack architectures."],
+        ["content-wrap-title", "Full Stack Developer"],
+        ["project-item-p-1", "Developed in typescript with React and deployed using tools like Babel, and webpack."],
+        ["project-item-p-2", "Developed in typescript with nodejs. Using packages like express, bcryptjs, cors, jest, nodemailer and dabases as PostgreSql, MongoDd and Redis."],
+        ["project-item-p-3", "After concluded a 9 weeks bootcamp covering Javascript, Typescript, node and React, I wanted to exercise some pure HTML and CSS. So I created this page to show my projects portfolium."],
+        ["content-wrap-footer", "Let's Keep in Touch!"]
+
+    ],
+
+    "french": [
+        ["content-wrap-p", "Je me spécialise dans la création d 'architectures full stack modulaires et évolutives."],
+        ["content-wrap-title", "Développeur Full Stack"],
+        ["project-item-p-1", "Développé en typescript avec React et déployé avec Babel et webpack"],
+        ["project-item-p-2", "Développé en typescript avec nodejs. Utilisation de packages tels que express, bcryptjs, cors, jest, nodemailer et des bases de données dans PostgreSql, MongoDb et Redis."],
+        ["project-item-p-3", "Après avoir conclu un bootcamp de 9 semaines couvrant Javascript, Typescript, node et React, je voulais exercer du HTML et du CSS purs. J'ai donc créé cette page pour montrer mon portefeuille de projets."],
+        ["content-wrap-footer", "Restons en contact!"]
+
+
+
+    ]
+}
