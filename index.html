@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html >
+  <script src="scripts/functions.js"></script>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gustavo Leal Front-end + Back-end Developer</title>
+    <link href="https://fonts.googleapis.com/css?family=Caveat|Montserrat:400,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <body>
+    <main>
+     
+      <header>
+        <div class="content-wrap">
+          <h3 id="lang" class="lang" onclick=changeLang()></h3>
+          <h1>Gustavo Leal</h1>
+          <h2 id="content-wrap-title"></h2>
+          <p id="content-wrap-p"></p>
+        </div>
+      </header>
+
+      <section class="projects">
+        <div class="content-wrap divider">
+          <h2>Portfolium</h2>
+
+          <section class="project-item">
+            <a class="btn-with-img" href="https://kanban.rundev.ca"target="_blank">
+              <img src="images/kanban.png" alt="Easy Kanban Front-end">
+            </a>
+
+            <h3>Easy Kanban front-end</h3>
+            <p id="project-item-p-1"></p>
+            <a class="btn" href="https://github.com/gustavojleal/frontDeploy" target="_blank">Front end repository</a>
+          </section>
+
+          <section class="project-item">
+            <img src="images/markus-spiske-8OyKWQgBsKQ-unsplash.jpg" alt="Easy Kanban Back-end">
+            <h3>Easy Kanban Back-end</h3>
+            <p id="project-item-p-2"></p>
+            <a class="btn" href="https://github.com/gustavojleal/backDeploy">Back end repository</a>
+          </section>
+
+          <section class="project-item">
+            <img src="images/kobu-agency-ipARHaxETRk-unsplash.jpg" alt="Rundev.ca">
+            <h3>Rundev</h3>
+            <p id="project-item-p-3"></p>
+            <a class="btn" href="https://github.com/gustavojleal/backDeploy">rundev HTML, CSS repository</a>
+          </section>
+        </div>
+      </section>
+
+      <footer>
+        <div class="content-wrap">
+          <h2 id="content-wrap-footer">Let's Keep in Touch!</h2>
+
+          <ul class="contact-list">
+            <li><a href="https://www.linkedin.com/in/gustavo-leal-3206a517/" target="_blank">LinkedIn</a></li>
+            <li><a href="//github.com/gustavojleal" target="_blank">Github</a></li>
+          </ul>
+        </div>
+      </footer>
+    </main>
+  </body>
+  <script>setLanguage(navigator.language)</script>
+
+</html>
